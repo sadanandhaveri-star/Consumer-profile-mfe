@@ -1,0 +1,26 @@
+{
+  "common": {
+    "loading": "Cargando...",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "edit": "Editar",
+    "delete": "Eliminar",
+    "confirm": "Confirmar",
+    "error": "Algo salió mal"
+  },
+  "profile": {
+    "title": "Perfil de Usuario",
+    "name": "Nombre",
+    "email": "Correo Electrónico",
+    "phone": "Teléfono",
+    "bio": "Biografía",
+    "avatar": "Avatar",
+    "editProfile": "Editar Perfil",
+    "saveProfile": "Guardar Perfil"
+  },
+  "nav": {
+    "home": "Inicio",
+    "profile": "Perfil",
+    "settings": "Configuración"
+  }
+}

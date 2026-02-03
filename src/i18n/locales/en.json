@@ -1,0 +1,26 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "save": "Save",
+    "cancel": "Cancel",
+    "edit": "Edit",
+    "delete": "Delete",
+    "confirm": "Confirm",
+    "error": "Something went wrong"
+  },
+  "profile": {
+    "title": "User Profile",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "bio": "Bio",
+    "avatar": "Avatar",
+    "editProfile": "Edit Profile",
+    "saveProfile": "Save Profile"
+  },
+  "nav": {
+    "home": "Home",
+    "profile": "Profile",
+    "settings": "Settings"
+  }
+}
